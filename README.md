@@ -1,14 +1,13 @@
 # Project name and description
  Use this section to write the name of the project and what it does or the problem it is solving. 
- **Example**
- **Project Name:** MyJournal
-
+##Example
+**Project Name:** MyJournal
 **Description:**
 MyJournal is a personal journal app designed to help users keep track of their thoughts, feelings, and experiences. The app provides a secure and private space for users to document their daily life, set goals, and reflect on their personal journey. It aims to create a digital diary that is easy to use, visually appealing, and accessible on various platforms.
 
  # Technologies used
   Use the section to list all the technologies that you used for the project, frameworks, languages, styling and test libraries, etc.
-  **Example**
+##Example
   - **Frontend:**
   - React.js for the user interface.
   - Redux for state management.
@@ -24,7 +23,7 @@ MyJournal is a personal journal app designed to help users keep track of their t
 
 # Features
  Use this section to list and explain every single feature the project has and what users can do with it. Be very elaborate in this section because this is where you sell the project and your skills.
-**Example**
+##Example
 1. **User Authentication:**
    - Secure user registration and login.
    - Password hashing for enhanced security.
@@ -48,7 +47,7 @@ MyJournal is a personal journal app designed to help users keep track of their t
 
 # Learnings
  Use this section to list any new thing you learned when you were working on the project. Show readers and recruiters the skills you picked up.
-**Example**
+##Example
 During the development of MyJournal, I gained valuable experience and skills in the following areas:
 
 - **User Authentication:** Implemented secure user authentication using JWT tokens.
@@ -61,7 +60,7 @@ During the development of MyJournal, I gained valuable experience and skills in 
 
 # Improvement
 Use this section to list the areas the project can be improved. Those features that are too complex to add, bugs, or an improvement to the existing features. You’d be surprised to see that some other developers are willing to collaborate and add them.
-**Example**
+##Example
 Areas for potential improvement and future development include:
 
 - **Collaborative Features:** Implement collaborative journaling for multiple users.
@@ -72,7 +71,7 @@ Areas for potential improvement and future development include:
 
 # How to run the project
 Add a step-by-step process of how other developers can run the project. Be very clear about the infrastructure used alongside the right commands. Add possible errors anyone running the project might face and how to get around them.
-**Example**
+##Example
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/yourusername/myjournal.git
@@ -93,7 +92,7 @@ Add demo videos and images
 
 # Work process
 What did you do first? What challenges did you face? how did you fix them? How long did it take you to complete the project? etc
-**Example**
+##Example
   - Started with wireframing and design.
   - Implemented backend functionality first, focusing on user authentication.
   - Gradually built the frontend, iteratively adding features.
